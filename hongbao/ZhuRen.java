@@ -1,5 +1,3 @@
-package LianXi.hongbao;
-
 import java.util.ArrayList;
 
 public class ZhuRen extends User {
