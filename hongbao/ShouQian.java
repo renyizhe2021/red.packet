@@ -1,5 +1,3 @@
-package LianXi.hongbao;
-
 import java.util.ArrayList;
 import java.util.Random;
 
