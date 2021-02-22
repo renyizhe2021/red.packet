@@ -1,5 +1,3 @@
-package LianXi.hongbao;
-
 public class User {
     private String name;
     private int  money;
